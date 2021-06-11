@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# Employee Dirctory
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Homework-June-15
 
-## Available Scripts
+==================================================================================================
 
-In the project directory, you can run:
+## Home assignment
 
-### `npm start`
+Background:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This is Homework due on May 15. Practice of React app set up, and connection with deployed app. User able to view my entire employee directory at once so that I have quick access to their information.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
+Install
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This project uses VS Code, GitBash, Mongo DataBase Atlas and NoSQL Please check you have correctly installed those program
 
-### `npm run build`
+Please ensure each of your program account created with SSH key or passwrod.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Please ensure running "npm i" to install all dependencies.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Usage （purpose）
 
-### `npm run eject`
+This application will allow User able to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success. It be shown on the page, and added to their transaction history whenever their connection is back online.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Local App start: Please enter "node server" or "npm start" at your terminal. Please ensure installed all dependencies.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Contributing
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+for future reference
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+for future reference
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Review
 
-### Analyzing the Bundle Size
+You are required to submit BOTH of the following for review:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- The URL of the deployed application.
+  https://randomemployeedir01.herokuapp.com/
+- The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+  https://github.com/sj212131/employee_directory
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![screenshot](./screenshot/ss1.png)
