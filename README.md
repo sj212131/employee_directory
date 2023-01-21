@@ -1,20 +1,14 @@
 # Employee Dirctory
 
-# Homework-June-15
-
-==================================================================================================
-
-## Home assignment
-
 Background:
 
-This is Homework due on May 15. Practice of React app set up, and connection with deployed app. User able to view my entire employee directory at once so that I have quick access to their information.
+React app set up, and connection with deployed app. User able to view my entire employee directory at once so that I have quick access to their information.
 
 ---
 
 Install
 
-This project uses VS Code, GitBash, Mongo DataBase Atlas and NoSQL Please check you have correctly installed those program
+This project uses VS Code, GitBash, Mongo DataBase Atlas and mySQL Please check you have correctly installed those program
 
 Please ensure each of your program account created with SSH key or passwrod.
 
